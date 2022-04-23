@@ -1,2 +1,4 @@
-# Anota-es-de-estudo
-Repositório para guardas anotações
+## Anotações de estudo
+Repositório para guardar anotações
+
+## Links úteis
