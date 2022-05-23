@@ -1,6 +1,13 @@
-## SET() Method
+## SET()
+*(Coleções chaveadas)*
 
-- São valores únicos, não se repetem.
+*Sets são estruturas que armazenam apenas **valores únicos***
+
+### Set vs Array
+
+- Possui valores únicos;
+- Em vez da propriedade length, consulta-se o número de registros pela propriedade size;
+- Não possui os métodos map, filter, reduce etc.
 
 Exemplo: 
 
@@ -23,6 +30,9 @@ Exemplo:
 
     mySet.has(2);
     // false
+
+    mySet.size;
+    // Tamanho do Set
 
     mySet.delete(3);
   ~~~
