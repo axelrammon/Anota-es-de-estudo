@@ -2,3 +2,5 @@
 Repositório para guardar anotações
 
 ## Links úteis
+
+- https://developer.mozilla.org/pt-BR/
