@@ -1,7 +1,7 @@
 ## Configurar chave ssh (Linux)
 
 - ssh-keygen -t ed25519 -C seuemail@email.com 
-- cd /home/user/.ssh   (linha para ir na pasta criada)
+- cd /home/seu_nome_de_user/.ssh   (linha para ir na pasta criada)
 - cat id_ed25519.pub (em seguida adicione a chave no Github)
 - eval $(ssh-agent -s)
 - ssh-add id_ed25519
